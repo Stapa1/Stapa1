@@ -1,6 +1,6 @@
 # Welcome to Pavan's GitHub!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+This is my README.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=newcomer03&label=Profile%20views&color=0e75b6&style=flat" alt="Stapa1" /> </p>
 
