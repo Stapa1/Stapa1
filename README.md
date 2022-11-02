@@ -1,6 +1,6 @@
 # Welcome to Pavan's GitHub!
 
-<a href = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"<a/>
+<a href = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Stapa1&label=Profile%20views&color=0e75b6&style=flat" alt="Stapa1" /> </p>
 
