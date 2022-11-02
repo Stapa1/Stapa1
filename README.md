@@ -2,7 +2,7 @@
 
 This is my README.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=newcomer03&label=Profile%20views&color=0e75b6&style=flat" alt="Stapa1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Stapa1&label=Profile%20views&color=0e75b6&style=flat" alt="Stapa1" /> </p>
 
 - 🌱 I’m currently learning **IOS Development, Full Stack Web**
 
