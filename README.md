@@ -14,10 +14,10 @@
 
 <!-- - 📫 How to reach me **manigorla7@gmail.com** -->
 
-- 🎓 I'm Final Year Computer Science Engineering undergrad at SRMAP.  
+- 🎓 I'm a Final Year Computer Science Engineering undergrad at SRMAP.  
 - 💻 I’m currently learning Data Mining and Blockchain Technologies. 
 - 👯 Looking to intern Ios App and Front web Development.
-- ⭐ 2022's Objective: Contribute more to open source and master DSA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
+- ⭐ 2023's Objective: Contribute more to open source and master DSA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
 - ⚡ I love coding and tennis. 
 
 <!-- - ⚡ Fun fact **I am a procastinator** -->
