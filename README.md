@@ -33,9 +33,10 @@
 <h3 align="left">Stats</h3>
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stapa1&theme=dark" width="45%" align="center"/>
- <img src="https://github-readme-stats.vercel.app/api?username=Stapa1&theme=dark&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="45%" align="center"/>
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=Stapa1&theme=dark&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="45%" align="center"/> -->
+ <img src="https://github-readme-stats.vercel.app/api?username=Stapa1&theme=dark&show_icons=true" width="45%" align="center"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stapa1&theme=dark&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" align="center" width="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stapa1&theme=dark&layout=compact" align="center" width="30%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stapa1&theme=moonlight" width="58%" align="center" />
  
   <img src="https://github-profile-trophy.vercel.app/?username=Stapa1&row=1(https://github.com/Stapa1/github-profile-trophy)" />
