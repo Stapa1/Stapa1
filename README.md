@@ -17,7 +17,7 @@
 - 🎓 I'm a Final Year Computer Science Engineering undergrad at SRMAP.  
 - 💻 I’m currently learning Data Mining and Blockchain Technologies. 
 - 👯 Looking to intern in Data Science roles
-- ⭐ 2023's Objective: Contribute more to open source and master DSA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
+- ⭐ 2024's Objective: Contribute more to open source and master DSA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
 - ⚡ I love coding and tennis. 
 
 <!-- - ⚡ Fun fact **I am a procastinator** -->
