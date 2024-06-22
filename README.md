@@ -6,7 +6,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Stapa1&label=Profile%20views&color=0e75b6&style=flat" alt="Stapa1" /> </p> -->
 
 <h3 align="center">passionate about Data Science and Ios Develepment</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.sanity.io/images/hpvpbfax/production/bfe713c88135dcceecbc28149cbf6625332665d9-1080x1080.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/bbbe8f3c3c04935f1b491bd463f783c88b991fbc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53724832646c4d6d4c7432716f78424e73542f67697068792e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Stapa1&label=Profile%20views&color=0e75b6&style=flat" alt="Stapa1" /> </p>
 
 <!-- - 🌱 I’m currently learning **Data Mining** -->
