@@ -46,7 +46,7 @@
   
   [![@pavansai's Holopin board](https://holopin.me/pavansai)](https://holopin.io/@pavansai)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312a3vvkqvwc4ot5mhzuecxh2wre&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<!--[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312a3vvkqvwc4ot5mhzuecxh2wre&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 <!-- 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stapa1&show_icons=true&locale=en&layout=compact" alt="Stapa1" /></p>
 
