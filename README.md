@@ -6,7 +6,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Stapa1&label=Profile%20views&color=0e75b6&style=flat" alt="Stapa1" /> </p> -->
 
 <!--<h3 align="center">Passionate about Data Science and Ios Develeopment</h3> -->
-<h3><img align="right" alt="coding" width="400" src="images/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<h3><img align="right" alt="coding" width="400" src="images/Cyberpunk Gif - IceGif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Stapa1&label=Profile%20views&color=0e75b6&style=flat" alt="Stapa1" /> </p>
 </h3>
 
