@@ -45,8 +45,8 @@
 <p/>
   
   [![@pavansai's Holopin board](https://holopin.me/pavansai)](https://holopin.io/@pavansai)
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312a3vvkqvwc4ot5mhzuecxh2wre&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=312a3vvkqvwc4ot5mhzuecxh2wre&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=312a3vvkqvwc4ot5mhzuecxh2wre&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
+<!--[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312a3vvkqvwc4ot5mhzuecxh2wre&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 <!-- 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stapa1&show_icons=true&locale=en&layout=compact" alt="Stapa1" /></p>
 
